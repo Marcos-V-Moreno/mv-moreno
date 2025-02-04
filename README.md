@@ -1,9 +1,7 @@
-# mv-moreno
-curso_python
-Olá, sou o Marcos Moreno
-tenho 37 anos, estou em transição de carreira
-atualmente estudo defesa cibernetica e faço cursos da UDEMY. 
+Oi 👋, Eu sou a Data Marketing
+Apaixonado por tecnologia e entusiasta! 
+🔭 Atualmente estou disponivel para trabalhar com desenvolvimento!
 
-Estou a disposição para trabalhos.
+🌱 Atualmente estou aprendendo Python, Django, SQL,HTML entre outros.
 
-Obrigado
+📫Você me acha através do e-mail moreno.marcosvinicius@gmail.com
